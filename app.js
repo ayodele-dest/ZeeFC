@@ -1,5 +1,5 @@
 const decks={
-  amala:{title:'Amala & Ewedu Taste Like Punishment',theme:'amala',image:'assets/amala-investigation.png',scenes:'assets/amala-scenes.png',slides:[
+  amala:{title:'Amala & Ewedu Taste Like Punishment',theme:'amala',image:'assets/amala-investigation.webp',scenes:'assets/amala-scenes.webp',slides:[
     ['cover','A culinary investigation nobody asked for.','AMALA AND EWEDU TASTE LIKE PUNISHMENT.','I have questions for everybody who insists this combination is a culinary masterpiece.'],
     ['Exhibit A · The appearance','Why must I overcome <em>visual adversity</em> before lunch?','🔍','Amala looks like porridge that did not finish loading. Ewedu is not helping its case. Food should at least look like it wants to be eaten.'],
     ['Exhibit B · Two bodyguards','Ewedu + gbegiri + stew.','🥬|🟡|🍲','Why does ewedu need gbegiri and red stew to give it life? If it cannot stand alone, it should go and learn from oha and afang. These are popular accompaniments, not universally mandatory.','Is this soup or a group project?'],
@@ -9,7 +9,7 @@ const decks={
     ['Exhibit F · Nostalgia','Do you love it, or did you <em>inherit the loyalty?</em>','🌳','Maybe the loyalty comes from growing up with it. Familiarity is powerful, but familiarity is not proof that a dish is the peak of cuisine.'],
     ['Closing argument','I have nothing against Yoruba cuisine.','⚖️','Deliver this as the dramatic final line, then stop.','But I refuse to pretend that this concoction is the peak of culinary achievement.']
   ]},
-  lagos:{title:'If You Think Lagos Is Better Than Abuja…',theme:'lagos',image:'assets/lagos-survival.png',scenes:'assets/lagos-scenes.png',slides:[
+  lagos:{title:'If You Think Lagos Is Better Than Abuja…',theme:'lagos',image:'assets/lagos-survival.webp',scenes:'assets/lagos-scenes.webp',slides:[
     ['cover','Are Lagos residents enjoying life or romanticising inconvenience?','IF YOU THINK LAGOS IS BETTER THAN ABUJA, SUFFERING IS YOUR LOVE LANGUAGE.','Open as an intentionally provocative Abuja-versus-Lagos opinion, not a factual ranking of everyone’s quality of life.'],
     ['The commute','You wake up tired.<br>You arrive tired.<br><em>You sleep tired.</em>','⏰','Why should I leave at 4:30 for a 9 a.m. job? The 4:30 example is comic exaggeration, not a typical commute statistic. Abuja residents can relate to traffic too.','4:30 AM departure. 9 AM resumption. Abuja residents can relate 😂'],
     ['The rent','Millions in rent.<br><em>The bathroom is inside the kitchen.</em>','🏠','High housing costs, questionable facilities and fees. The joke is that a bad apartment is advertised like premium real estate.','Luxury apartment, apparently.'],
